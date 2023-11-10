@@ -1,0 +1,25 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# VS Code directories
+.vscode/
+
+# Visual Studio cache/options directory
+.vs/
+
+# ReSharper / Rider 
+_ReSharper*/
+*.DotSettings.user

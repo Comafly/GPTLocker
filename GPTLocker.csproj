@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <StartupObject>GPTLocker.App</StartupObject>
+    <ApplicationIcon>images\favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\icon-clipboard-32.png" />
+    <None Remove="images\icon-clipboard-512.png" />
+    <None Remove="images\icon-clipboard-64.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="images\favicon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\icon-clipboard-32.png" />
+    <Resource Include="images\icon-clipboard-64.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>
