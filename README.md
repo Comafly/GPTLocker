@@ -29,6 +29,12 @@ git clone https://github.com/Comafly/GPTLocker.git
 - Customizable and responsive user interface.
 - Adjustable message context limit.
 
+## 🔍 Preview
+
+![The Main Window](images/MainWindow.jpg)
+![The Settings Screen](images/Settings.jpg)
+
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Comafly/GPTLocker/blob/main/LICENSE) file for details.
