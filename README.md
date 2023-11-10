@@ -37,7 +37,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## 🚀 Latest Release
 
-Find the latest single-file release in the [release section](https://github.com/Comafly/GPTLocker/release).
+Find the latest single-file release in the [release section](https://github.com/Comafly/GPTLocker/tree/main/release).
 
 ## 💬 Contact
 
